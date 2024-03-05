@@ -59,7 +59,7 @@ published: true
 ## 設定の意味
 
 - Obsidianを起動すると自動で、テンプレートを引用して、その日のノートが `daily` に作成される
-- 新規作成のノートや添付ファイルは、すべて `inbox` に入る
+- 新規作成のノートは `inbox` に入る
 - 添付ファイルは `_config/assets` に入る
 - テンプレートは `_config/templates` 配下に名称を揃えて作る
 
